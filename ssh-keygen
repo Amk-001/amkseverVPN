@@ -1,0 +1,3 @@
+# amkseverVPN
+VPN server 
+ssh-keygen -t rsa -b 4096 -C "wayne.mm.92@https://packages.openvpn.net/as/install.sh"

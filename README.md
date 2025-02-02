@@ -1,2 +1,0 @@
-# amkseverVPN
-VPN server 
