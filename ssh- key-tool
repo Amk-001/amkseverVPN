@@ -1,0 +1,8 @@
+#install 
+#debian based systems
+sudo apt update
+sudo apt install openssh-client
+#Red Hat-beased systems
+sudo yum install openssh-clients
+macOS
+which ssh-keygen
